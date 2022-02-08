@@ -1,5 +1,5 @@
 # LGSMscripts
-My personal LGSM scripts to help automate stuff. (Build for CS:GO. can be easly altered to other games.
+My personal LGSM scripts to help automate stuff. (Built for CS:GO. can be easly altered to other games.
 # Autoupdate.sh requirements.
 Autoupdate.sh requires [discord.sh](https://github.com/ChaoticWeg/discord.sh) in the same folder as the updater, 
 the updater should be located in the root folder of the user.
