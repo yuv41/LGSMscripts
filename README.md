@@ -13,6 +13,6 @@ Sourcemod.sh has no requirements but edits to the folder of your serverfiles if 
 The updater should be located in a subdir of the root folder of the user (/home/user/sourcemodupdater)
 To run sourcemod.sh automatically i would recommend running a cronjob once a day.
 ```
-0 0 * * * /path/to/sourcemod.sh & >> /dev/null
+0 0 * * * /path/to/sourcemod.sh >> /dev/null
 ```
 (This will run sourcemod.sh at every 00:00.)
