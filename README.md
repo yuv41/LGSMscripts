@@ -10,7 +10,7 @@ To run autoupdate.sh looped upon server boot i would recommend adding this Cronj
 (This will run update.sh after 10 minutes of the server being on, and will keep it looping endlessly.)
 # Sourcemod.sh requirements.
 Sourcemod.sh has no requirements but edits to the folder of your serverfiles if you've changed it from serverfiles, (Line 28)
-The updater should be located in a subdir of the root folder of the user (/home/user/sourcemodupdater)
+The updater should be located in a subdir of the root folder of the user (/home/user/sourcemodupdater)                             
 To run sourcemod.sh automatically i would recommend running a cronjob once a day.
 ```
 0 0 * * * /path/to/sourcemod.sh >> /dev/null
