@@ -29,3 +29,4 @@ cp -r $selfdir/addons /home/$user/serverfiles/csgo/
 echo Cleaning download folder
 rm -r $selfdir/addons
 echo Done!
+done
